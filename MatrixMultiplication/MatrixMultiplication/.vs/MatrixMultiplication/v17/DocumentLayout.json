@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\PracticeCUDA\\MatrixMultiplication\\MatrixMultiplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5AFA07-4FED-4411-B91B-40C0E1B87EEA}|MatrixMultiplication.vcxproj|Y:\\PracticeCUDA\\MatrixMultiplication\\MatrixMultiplication\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EF5AFA07-4FED-4411-B91B-40C0E1B87EEA}|MatrixMultiplication.vcxproj|solutionrelative:kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "Y:\\PracticeCUDA\\MatrixMultiplication\\MatrixMultiplication\\kernel.cu",
+              "RelativeDocumentMoniker": "kernel.cu",
+              "ToolTip": "Y:\\PracticeCUDA\\MatrixMultiplication\\MatrixMultiplication\\kernel.cu",
+              "RelativeToolTip": "kernel.cu",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-14T00:18:58.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
